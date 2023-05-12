@@ -1,0 +1,9 @@
+payload:
+ - '+.pikpakdrive.com'
+ - '+.mypikpak.net'
+ - '+.pikpak.me'
+ - '+.mypikpak.com'
+ - 'pikpakdrive.com'
+ - 'mypikpak.net'
+ - 'pikpak.me'
+ - 'mypikpak.com'
