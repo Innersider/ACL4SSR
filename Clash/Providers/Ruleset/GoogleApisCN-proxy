@@ -8,3 +8,8 @@ payload:
   - 'android.clients.google.com'
   - 'play.googleapis.com'
   - 'services.googleapis.cn'
+  - 'clients4.google.com'
+  - '+.googleusercontent.com'
+  - 'googleusercontent.com'
+  - '+.gvt1.com'
+  - 'gvt1.com'
