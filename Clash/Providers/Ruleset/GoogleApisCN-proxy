@@ -1,6 +1,8 @@
 payload:
   - '+.googleapis.cn'
   - 'googleapis.cn'
+  - '+.googleapis.com'
+  - 'googleapis.com'
   - 'services.googleapis.cn'
   - 'android.googleapis.com'
   - 'android.clients.google.com'
