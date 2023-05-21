@@ -13,3 +13,5 @@ payload:
   - 'googleusercontent.com'
   - '+.gvt1.com'
   - 'gvt1.com'
+  - 'android.apis.google.com'
+  - 'android-safebrowsing.google.com'
