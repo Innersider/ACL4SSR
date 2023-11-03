@@ -3,3 +3,4 @@ payload:
   - PROCESS-NAME,nekoray.exe
   - PROCESS-NAME,nekobox
   - PROCESS-NAME,nekoray
+  - PROCESS-NAME,nekobox_core
