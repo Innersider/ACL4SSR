@@ -1,0 +1,5 @@
+payload:
+  - PROCESS-NAME,nekobox_core.exe
+  - PROCESS-NAME,nekoray.exe
+  - PROCESS-NAME,nekobox
+  - PROCESS-NAME,nekoray
