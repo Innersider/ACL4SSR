@@ -9,16 +9,16 @@ payload:
   - PROCESS-NAME,moe.nb4a:bg
   - PROCESS-NAME,Clash
   - PROCESS-NAME,clash
-  - PROCESS-NAME,Clash Verge.exe
-  - PROCESS-NAME,Clash Verge
+  - PROCESS-NAME,'Clash Verge.exe'
+  - PROCESS-NAME,'Clash Verge'
   - PROCESS-NAME,clash-core-service.exe
   - PROCESS-NAME,clash-core-service
   - PROCESS-NAME,clash-meta.exe
   - PROCESS-NAME,clash-meta
   - PROCESS-NAME,clash-verge-service.exe
   - PROCESS-NAME,clash-verge-service
-  - PROCESS-NAME,Clash for Windows.exe
-  - PROCESS-NAME,Clash for Windows
+  - PROCESS-NAME,'Clash for Windows.exe'
+  - PROCESS-NAME,'Clash for Windows'
   - PROCESS-NAME,clash-core-service.exe
   - PROCESS-NAME,clash-core-service
   - PROCESS-NAME,clash-win32.exe
