@@ -7,3 +7,7 @@ payload:
   - PROCESS-NAME,moe.nb4a
   - PROCESS-NAME,moe.matsuri.exe.naive
   - PROCESS-NAME,moe.nb4a:bg
+  - PROCESS-NAME,juicity
+  - PROCESS-NAME,juicity.exe
+  - PROCESS-NAME,juicity-client
+  - PROCESS-NAME,juicity-client.exe
