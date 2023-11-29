@@ -11,3 +11,5 @@ payload:
   - PROCESS-NAME,juicity.exe
   - PROCESS-NAME,juicity-client
   - PROCESS-NAME,juicity-client.exe
+  - PROCESS-NAME,CloudflareST.exe
+  - PROCESS-NAME,CloudflareST
