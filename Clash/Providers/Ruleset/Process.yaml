@@ -13,3 +13,5 @@ payload:
   - PROCESS-NAME,juicity-client.exe
   - PROCESS-NAME,CloudflareST.exe
   - PROCESS-NAME,CloudflareST
+  - PROCESS-NAME,dnsproxy.exe
+  - PROCESS-NAME,dnsproxy
