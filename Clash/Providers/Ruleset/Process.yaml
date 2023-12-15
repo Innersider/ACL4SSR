@@ -1,12 +1,8 @@
 payload:
   - PROCESS-NAME,nekobox_core.exe
-  - PROCESS-NAME,nekoray.exe
-  - PROCESS-NAME,nekobox
-  - PROCESS-NAME,nekoray
   - PROCESS-NAME,nekobox_core
-  - PROCESS-NAME,moe.nb4a
-  - PROCESS-NAME,moe.matsuri.exe.naive
-  - PROCESS-NAME,moe.nb4a:bg
+  - PROCESS-NAME,nekoray.exe
+  - PROCESS-NAME,nekoray
   - PROCESS-NAME,juicity
   - PROCESS-NAME,juicity.exe
   - PROCESS-NAME,juicity-client
